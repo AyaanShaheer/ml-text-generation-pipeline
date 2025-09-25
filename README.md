@@ -5,6 +5,7 @@
 
 > **A complete machine learning project that trains an LSTM neural network on classic literature to generate creative text in the style of Alice in Wonderland and the Declaration of Independence.**
 
+<img width="2319" height="755" alt="diagram-export-9-24-2025-5_44_59-PM" src="https://github.com/user-attachments/assets/00422aae-f430-4444-8077-00f61f22f1c6" />
 
 
 
@@ -33,7 +34,7 @@ This project demonstrates a complete end-to-end machine learning pipeline:
 ### 1. Setup Environment
 ```
 # Clone repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/AyaanShaheer/ml-text-generation-pipeline.git)
 cd text_generation_ml_project
 
 # Create virtual environment
