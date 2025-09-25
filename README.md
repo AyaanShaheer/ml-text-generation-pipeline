@@ -1,11 +1,13 @@
-## 📄 **README.md** (Create in root directory)
+<img width="2319" height="755" alt="diagram-export-9-24-2025-5_44_59-PM" src="https://github.com/user-attachments/assets/e12df3e0-eb0d-41d0-93bf-43569cd202f7" />
+
+
 
 ```markdown
 # 🤖 AI Text Generator - LSTM Neural Network
 
 > **A complete machine learning project that trains an LSTM neural network on classic literature to generate creative text in the style of Alice in Wonderland and the Declaration of Independence.**
 
-<img width="2319" height="755" alt="diagram-export-9-24-2025-5_44_59-PM" src="https://github.com/user-attachments/assets/00422aae-f430-4444-8077-00f61f22f1c6" />
+
 
 
 
